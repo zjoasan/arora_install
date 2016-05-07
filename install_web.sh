@@ -8,6 +8,7 @@ chmod +x /home/osmc/web-browser/webstart2.sh 2>&1
 chmod +x /home/osmc/web-browser/web_watchdog.sh 2>&1
 cp /home/osmc/.kodi/addons/plugin.program.www-launcher/fanart.jpg /home/osmc/web-browser/fanart.jpg
 rm -f install_web.zip 2>&1
+xbmc-send -a "UpdateLocalAddons" >/dev/null
 dialog --title "Installation finnished!" --msgbox "\nThank you for using my installer\n"  11 70
 exit
 

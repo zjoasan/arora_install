@@ -1,1 +1,0 @@
-If i send a line break in the issue text, it get transferd, but not if i in matterbrige create a string containing \n i get no newline

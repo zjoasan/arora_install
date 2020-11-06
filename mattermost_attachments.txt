@@ -1,1 +1,0 @@
-testing to "transfer" slack attachmentys to mattermost, via edited matterbridge

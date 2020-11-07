@@ -1,0 +1,1 @@
+Trying to fake a prop, since i got probs with parseing msg.Extra["slack_attachment"], now i manually fille the props, heping it works

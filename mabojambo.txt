@@ -1,1 +1,0 @@
-remember to start the bridge before trying to make a msg cross over

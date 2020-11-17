@@ -1,1 +1,0 @@
-guessing, i populate Tp-variablews, but somewhere when going from struct to string.interface it goes wrong. .will check debug log sonnish
